@@ -10,3 +10,4 @@ It showcases essential PKI operations, including:
 - Client registration and certificate requests  
 - Certificate validation and revocation  
 - Secure communication using public/private key cryptography
+![Project screenshot](image/pkcs.png)
