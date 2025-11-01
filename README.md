@@ -11,3 +11,21 @@ It showcases essential PKI operations, including:
 - Certificate validation and revocation  
 - Secure communication using public/private key cryptography
 ![Project screenshot](image/pkcs.png)
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/bforbugs/Public-key-encryption-system.git
+   ```
+2. Change directory:
+```bash
+cd public-key-encryption-system
+```
+3. Add required packages
+```bash
+python -r requirements.txt
+```
+4. run the main file
+```bash
+python src/root_ca.py
+```
