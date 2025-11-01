@@ -1,0 +1,14 @@
+# Cryptography and PKI
+pycryptodome==3.20.0
+asn1crypto==1.5.1
+pyOpenSSL==24.2.1
+
+# Core Python utilities
+uuid==1.30
+secrets==1.0.2
+
+# JSON and data handling
+simplejson==3.19.2
+
+# Date and time utilities
+python-dateutil==2.9.0.post0
